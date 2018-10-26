@@ -1,0 +1,53 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"John",
+            "lastName":"Doe",
+            "email":"john@gmail.com",
+            "age":34,
+            "companyId":"1"
+        },
+        {
+            "id":"2",
+            "firstName":"Mark",
+            "lastName":"Williams",
+            "email":"mark@gmail.com",
+            "age":33,
+            "companyId":"2"
+        },
+        {
+            "id":"3",
+            "firstName":"Sara",
+            "lastName":"Thompson",
+            "email":"Sara@gmail.com",
+            "age":40,
+            "companyId":"3"
+        },
+        {
+            "id":"4",
+            "firstName":"Sam",
+            "lastName":"Swanson",
+            "email":"Sam@gmail.com",
+            "age":24,
+            "companyId":"3"
+        }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"Apple",
+            "description":"Lorem ipsum dolor sit amet"
+        },
+        {
+            "id":"2",
+            "name":"Microsoft",
+            "description":"Lorem ipsum dolor sit amet"
+        },
+        {
+            "id":"3",
+            "name":"Google",
+            "description":"Lorem ipsum dolor sit amet"
+        }
+    ]
+}
